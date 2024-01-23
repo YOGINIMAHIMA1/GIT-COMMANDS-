@@ -1,0 +1,4 @@
+# git clone- to clone the repository from github to local server
+# git status- to check the current status of repository how amny files are there
+#git add.-  to add all untracked files
+#git init- to convert project into repository
